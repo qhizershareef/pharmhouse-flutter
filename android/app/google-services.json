@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "65996354737",
+    "firebase_url": "https://pharmhouse-app.firebaseio.com",
+    "project_id": "pharmhouse-app",
+    "storage_bucket": "pharmhouse-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:65996354737:android:85c26e607b33da407b1e90",
+        "android_client_info": {
+          "package_name": "com.example.pharmhouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "65996354737-63s7sov74sra9cs95d2oj27n0airf2hr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA--47FVUIvSl0gewMuqtMiozui_GArnCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "65996354737-63s7sov74sra9cs95d2oj27n0airf2hr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
